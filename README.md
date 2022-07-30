@@ -1,5 +1,5 @@
 # Pylon Script Collection
-* [**Pylon Reddit Feed**]()
+* [**Pylon Reddit Feed**](https://gist.github.com/WiLuX-Source/850f40a63ff6ac5897773a33b343b5ec)
 * [**Pylon Epic Freebie Feed**](https://gist.github.com/WiLuX-Source/a9193d79f6649a64ca890ccc8be80ef5)
 ## Description
 Here you will find all of the scripts that I made for Pylon.
